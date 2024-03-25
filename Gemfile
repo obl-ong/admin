@@ -71,7 +71,7 @@ gem "solid_cache", "~> 0.5.3"
 
 # Use Solid Queue (database) and Mission Control dashboard as the backend for Active Job
 gem "solid_queue", "~> 0.2.2"
-gem "mission_control-jobs", "~> 0.1.1"
+gem "mission_control-jobs", "~> 0.2.0"
 
 # Use Administrate to power Adminland
 gem "administrate", ">= 1.0.0.beta1"
